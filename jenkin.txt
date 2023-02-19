@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "hi from git and trying poll scm again"
+                echo "hi from git and trying poll--scm again"
             }
         }
     }
