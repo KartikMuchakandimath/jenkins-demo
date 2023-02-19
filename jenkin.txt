@@ -3,11 +3,10 @@ pipeline {
     stages {
         stage('build') {
             steps {
-<<<<<<< HEAD
+
                 echo "hi from git and trying pollscm again"
-=======
+
                 echo "hi from git and trying poll-scm again"
->>>>>>> 88e972de8d1f51037c5b0c90620ce866f0b70c93
             }
         }
     }
